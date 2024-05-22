@@ -1,0 +1,61 @@
+span{
+    
+    font-weight: bold;
+}
+
+img{
+
+    text-align: center;
+    width: 200px;
+
+}
+
+h1{
+
+    font-size: 30px;
+}
+.qp{
+    border-top: 2px solid orange;
+    font-size: 15px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+
+a{
+   text-align: center;
+   padding: 10px;
+}
+.ph{
+
+    color: orange;
+
+
+}
+
+div{
+        width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+.produto{
+    
+    background-color: orange;
+    color: white;
+    padding: 20px;
+
+}
+
+.img01{
+    width: 600px;
+    padding-bottom: 30px;
+}
+.img02{
+    width: 500px;
+}
+.img03{
+    width: 500px;
+}
+
